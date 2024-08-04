@@ -1,0 +1,14 @@
+.ZukitcraftText{
+    text-align: center;
+}
+#getLink{
+    background-color: aquamarine;
+    border-radius: 20px;
+    font-size: 20px;
+}
+#TitleGetlink{
+    font-size: 30px;
+}
+html{
+    background: rgb(177, 237, 255);
+}
