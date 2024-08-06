@@ -1,0 +1,14 @@
+#uiTalk{
+    position: relative;
+    position: fixed;
+    background: rgb(139, 139, 139);
+    height: 100px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+#imgMXH{
+    position: absolute;
+    margin-right: auto;
+    top: 5px;
+}
